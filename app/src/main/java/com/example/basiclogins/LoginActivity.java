@@ -37,7 +37,7 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intentSignUp = new Intent(Intent.ACTION_SEND);
-                
+                intentSignUp.
             }
         };
     }
